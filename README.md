@@ -1,6 +1,6 @@
 # NSF-REU-2021
 
-https://www.tntech.edu/engineering/research/cmr/reu/index.php
+https://www.cae.tntech.edu/~mmahmoud/supervision.htm
 
 View on Colab:
 - [AMIvisualizations](https://colab.research.google.com/github/mayhd3/NSF-REU-2021/blob/main/AMIvisualizations.ipynb)
